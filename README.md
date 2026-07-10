@@ -1,38 +1,40 @@
+[Read this in Portuguese](README_pt.md)  
+
 # VALCARENGHI TOP-DOWN TEMPLATE GAME
-Este é um projeto de desenvolvido em GameMaker para 
-explorar mecânicas fundamentais de jogos. 
-![screnshoot](img/Capturar1.PNG)
-Consiste em um template modular criado para acelerar o
-desenvolvimento de jogos 2D(top-down). Este projeto foi 
-estruturado para ser uma base limpa, permitindo que você 
-foque na criação dos seus assets e níveis, sem se preocupar 
-com os sistemas básicos.
+This is a project developed in GameMaker to
+explore fundamental game mechanics.
+![Screnshoot](img/Capturar1.PNG)
+It consists of a modular template created to accelerate
+2D (top-down) game development. This project was
+structured to be a clean foundation, allowing you to
+focus on creating your assets and levels, without worrying
+about the basic systems.
 
-## Funcionalidades Principais
-- Menu e interface
-- Opções de tela (resolução/janela)
-- Alternância de idioma
-- Movimentação fluida
-- Sistema de tiro
-- Coleta de itens
-- Inimigos perseguidores
-- Efeitos especiais para itens coletáveis
+## Main Features
+- Menu and interface
+- Screen settings (resolution/window)
+- Language switching
+- Fluid movement
+- Shooting system
+- Item collection
+- Chasing enemies
+- Special effects for collectible items
 
-## Futuras implementações
-- Música e efeitos sonoros
-- Diferentes inimigos
+## Future Implementations
+- Music and sound effects
+- Different enemies
 
-## Como usar este template
-1. **Clone o repositório:**
-   `git clone https://github.com/seu-usuario/seu-repositorio.git`
-2. **Abra no GameMaker:** Importe o projeto e comece a substituir os objetos e sprites pelos seus.
-3. **Customize:** Explore os scripts para ajustar do seu jeito.
+## How to use this template
+1. Clone the repository:
+`git clone https://github.com/your-username/your-repository.git`
+2. Open in GameMaker: Import the project and start replacing the objects and sprites with your own.
+3. Customize: Explore the scripts to adjust it your way.
 
-## Contribuições
-Este template é **open source**. Sinta-se à vontade para 
-realizar um *Fork* e adaptar para as suas necessidades. 
-Se encontrar formas de otimizar os sistemas, contribua com um 
-*Pull Request*!
+## Contributions
+This template is open source. Feel free to
+perform a Fork and adapt it to your needs.
+If you find ways to optimize the systems, contribute with a
+Pull Request!
 
-## Autor
+## Author
 Valcarenghi
