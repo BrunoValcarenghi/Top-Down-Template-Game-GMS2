@@ -1,0 +1,2 @@
+shadow()
+draw_self()
