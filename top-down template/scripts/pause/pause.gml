@@ -19,6 +19,10 @@ if keyboard_check_pressed(vk_escape){
 		// mostrar opciones
 		// mostrar opções
 		obj_b_pause.image_alpha = 1
+		
+		//pause enemys
+		//pausa inimigos
+		instance_deactivate_layer("enemy")
 
 	}
 	

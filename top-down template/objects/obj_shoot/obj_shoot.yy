@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_col",
-  "eventList":[],
+  "%Name":"obj_shoot",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_col",
+  "name":"obj_shoot",
   "overriddenProperties":[],
   "parent":{
     "name":"obj",
@@ -26,10 +29,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_col",
-    "path":"sprites/spr_col/spr_col.yy",
+    "name":"spr_shoot",
+    "path":"sprites/spr_shoot/spr_shoot.yy",
   },
   "spriteMaskId":null,
   "visible":true,

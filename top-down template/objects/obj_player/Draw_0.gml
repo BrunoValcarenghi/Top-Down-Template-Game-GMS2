@@ -1,2 +1,0 @@
-shadow()
-draw_self()
