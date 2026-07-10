@@ -1,7 +1,7 @@
 # VALCARENGHI TOP-DOWN TEMPLATE GAME
 Este é um projeto de desenvolvido em GameMaker para 
 explorar mecânicas fundamentais de jogos. 
-
+![screnshoot](img/Capturar1.PNG)
 Consiste em um template modular criado para acelerar o
 desenvolvimento de jogos 2D(top-down). Este projeto foi 
 estruturado para ser uma base limpa, permitindo que você 
