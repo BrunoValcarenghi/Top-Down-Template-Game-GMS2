@@ -10,12 +10,13 @@ switch state{
 	case enemy_state.walk:{
 		
 		image_index = 0
-		if alarm[0] < 1 alarm[0] = 60
+		if alarm[0] < 1 alarm[0] = irandom_range(100,160)
 		if distance_to_object(obj_player) < 50{
 			
 			state = enemy_state.chase
 			
 		}
+		spd = .5
 		break;
 	
 	}
@@ -30,6 +31,7 @@ switch state{
 			state = enemy_state.walk
 			
 		}
+		spd = 1.3
 		break;
 	}
 }

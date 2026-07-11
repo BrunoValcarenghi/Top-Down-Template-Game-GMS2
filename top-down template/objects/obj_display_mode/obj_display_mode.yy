@@ -8,8 +8,8 @@
   "name":"obj_display_mode",
   "overriddenProperties":[],
   "parent":{
-    "name":"buttons",
-    "path":"folders/obj/buttons.yy",
+    "name":"interface",
+    "path":"folders/obj/interface.yy",
   },
   "parentObjectId":null,
   "persistent":false,

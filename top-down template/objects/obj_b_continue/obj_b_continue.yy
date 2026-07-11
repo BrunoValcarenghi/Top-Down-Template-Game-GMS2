@@ -10,8 +10,8 @@
   "name":"obj_b_continue",
   "overriddenProperties":[],
   "parent":{
-    "name":"buttons",
-    "path":"folders/obj/buttons.yy",
+    "name":"interface",
+    "path":"folders/obj/interface.yy",
   },
   "parentObjectId":{
     "name":"obj_b_pause",
