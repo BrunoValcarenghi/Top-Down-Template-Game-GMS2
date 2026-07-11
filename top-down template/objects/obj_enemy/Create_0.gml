@@ -1,6 +1,10 @@
+//attributes
+//atributos
 hp = 3
 spd = 1.3
 
+//state
+//estados
 enum enemy_state{
 
 	walk,
@@ -10,3 +14,8 @@ enum enemy_state{
 
 state = enemy_state.walk
 alarm[0] = 1
+
+//effects
+//efeitos
+shadow(true);
+

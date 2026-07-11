@@ -10,3 +10,7 @@ invencible = false;
 invencible_time = 60;
 coins = 0;
 magnet_distance = 10;
+
+//effects
+//efeitos
+shadow(true);
